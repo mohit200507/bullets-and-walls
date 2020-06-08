@@ -1,3 +1,3 @@
 # bounceOffAlgorithm
 Algorithm to bounce off two objects
-https://mohit200507.github.io/bouncy-objects/
+https://mohit200507.github.io/bullets-and-walls/.
